@@ -19,3 +19,34 @@ git branch -M main
 git push -u origin main
 
 https://www.quora.com/What-is-fastest-way-to-learn-front-end-development-I-know-HTML-and-a-little-bit-of-CSS-Should-I-move-onto-JavaScript-or-Photoshop?ch=3&oid=25946214&share=e45a3e8f&srid=h8eA3&target_type=question
+
+
+Related
+What is the best way to start learning front-end development?
+Learn HTML5,CSS3.
+
+Make 3 beautiful static web pages.(Take a template and make it.)
+
+Learn a CSS Framework like Bootstrap/Semantic UI,etc. when you know HTML and CSS well. I would recommend Bootstrap.
+
+Make 2 Projects using the CSS Framework you have learnt.
+
+Learn JavaScript. Practice by solving coding challenges in order to improve your logic as well as implementing DOM Manipulation so that you can bring interactivity to your pages.
+
+Make 3 Projects with HTML5,CSS3 & JavaScript. Tic Tac Toe Game can be one of those projects.
+
+Learn a CSS Preprocessor like SASS,LESS,Stylus,etc. SASS is the most popular one.
+
+Make 1–2 Projects which use SASS.
+
+Learn a Front-End Framework like Angular/React/Vue. React is the most popular nowadays. Angular is also superb.(I work on Angular.). Learn Basics of TypeScript Programming Language if you choose Angular as your framework since TypeScript is Angular's primary programming language. Don't worry, TypeScript can be learnt in a day if you know JavaScript.
+
+Make 3 good projects with your chosen FrameWork.
+
+Learn a Task Runner like Gulp/Grunt and implement some tasks like minifying your file's size,minifying a image size,etc.
+
+Sequence in which you should learn:-
+
+HTML and CSS -> JavaScript -> Bootstrap/Semantic UI -> SASS -> Gulp/Grunt -> Angular/React/Vue.
+
+Good Luck.
